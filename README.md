@@ -26,18 +26,18 @@ So in total there are 3060 Brain MRI images, with equal numbers of tumorous and 
 To train the model, we use 30 epochs with EarlyStopping to stop early if the validation accuracy does not improve after 6 consecutive epochs.
 
 Resulting:
-![alt text](image-2.png)
+![alt text](Result/image-2.png)
 
 - Evaluation on Training Set:
-![alt text](image-3.png)
+![alt text](Result/image-3.png)
 
 - Evaluation on Validation Set:
-![alt text](image-4.png)
+![alt text](Result/image-4.png)
 
     - This allows us to compare the model's accuracy between the training and validation sets to evaluate overfitting.
 
 - Evaluation on Test Set:
-![alt text](image-5.png)
+![alt text](Result/image-5.png)
 
 - Evaluation metric results:
-![alt text](image-6.png)
+![alt text](Result/image-6.png)

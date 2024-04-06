@@ -1,5 +1,7 @@
 # Brain-Tumor_Detection
 
+Link Google colab: https://colab.research.google.com/drive/1HX6l9wMvicbkxxAIUjabU0CaB3hudl8J?usp=sharing
+
 # ResNet50 Model
 In this project, we use the ResNet50 model for image classification. ResNet50 is a deep convolutional neural network introduced in 2015.
 
